@@ -3,6 +3,8 @@
 A mobile application developed for the ITE 2152 - Introduction to Mobile Application Development course.
 The app challenges users to guess secret words fetched dynamically from online APIs, with a real-time scoring system, hints, and a global leaderboard.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ✨ Features
 🧑‍💻 Onboarding: User name input and storage using SharedPreferences.
 🕹️ Guess the Word: Random word fetching from an online API, with 10 attempts and a starting score of 100 points.
@@ -16,6 +18,8 @@ The app challenges users to guess secret words fetched dynamically from online A
 🏆 Global Leaderboard: API-connected leaderboard to track top players’ scores and times.
 🎨 Intuitive UI/UX: Clean, responsive, and beginner-friendly interface.
 ♻️ Level Progression: Guess correctly to move to more difficult levels with longer words.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠 Technologies Used
 Android Studio
