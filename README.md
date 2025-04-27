@@ -7,16 +7,27 @@ The app challenges users to guess secret words fetched dynamically from online A
 
 ✨ Features
 🧑‍💻 Onboarding: User name input and storage using SharedPreferences.
+
 🕹️ Guess the Word: Random word fetching from an online API, with 10 attempts and a starting score of 100 points.
+
 📉 Dynamic Scoring:
+
     -10 points for wrong guesses.
+
     -5 points for letter checking or asking for word length.
+    
 🔤 Letter Occurrence Checking: Check how many times a letter appears in the secret word (with a point penalty).
+
 🔍 Word Length Hint: Request the number of letters in the word.
+
 💡 Tips: After 5 wrong guesses, users can request a rhyming word or similar word as a hint.
+
 ⏱️ Timer: Records how long it takes to guess the word correctly.
+
 🏆 Global Leaderboard: API-connected leaderboard to track top players’ scores and times.
+
 🎨 Intuitive UI/UX: Clean, responsive, and beginner-friendly interface.
+
 ♻️ Level Progression: Guess correctly to move to more difficult levels with longer words.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
