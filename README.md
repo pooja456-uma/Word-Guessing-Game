@@ -30,6 +30,8 @@ SharedPreferences for local data storage
 Firebase / Mock API (for Leaderboard)
 Material Design Components
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📂 Project Structure
 mad-word-guessing-game/
 ├── app/
@@ -52,6 +54,8 @@ mad-word-guessing-game/
 ├── README.md
 └── Demo_Video.mp4
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🚀 How to Run the Project
 Clone the repository:
 git clone https://github.com/yourusername/mad-word-guessing-game.git
@@ -61,17 +65,25 @@ Connect an emulator or physical Android device.
 Configure API URLs (if required) inside the network module.
 Run the project.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🖼 Demo
 A full demo video showcasing all functionalities (onboarding, gameplay, hints, timer, leaderboard, error handling, and UI walkthrough) is included in the repository.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📚 Submission Details
 Course: ITE 2152 – Introduction to Mobile Application Development
 University: University of Moratuwa
 Deadline: April 2025
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📄 License
 This project is developed for educational purposes under the BIT program at the University of Moratuwa.
 Use of this project code outside educational purposes requires permission.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📣 Special Notes
 Tested across different Android devices and screen sizes.
